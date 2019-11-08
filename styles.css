@@ -1,0 +1,106 @@
+h1 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#quantum-computing {
+    background: url("https://www.roche.com/dam/jcr:d963dfee-877b-475b-b29e-47f421c99225/en/quantum-computing-1920.jpg") no-repeat center top;
+    margin-top: -50px;
+    padding-top: 150px;
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 650px;
+    width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#quantum-computing h1 {
+    color: #ffffff;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    font-size: 100px;
+}
+
+#quantum-computing p {
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+#research {
+    background: url("https://stories.uq.edu.au/research/impact/2019/to-infinity-and-beyond/assets/bewAXOID8X/uq-quantum-computing-research-2560x1707.jpeg") no-repeat center top;
+    margin-top: -50px;
+    padding-top: 150px;
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 650px;
+    width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#research h1 {
+    color: #ffffff;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    font-size: 100px;
+}
+
+#research p {
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.computer-img {
+    width: 290px;
+    height: 200px;
+    margin-left: 80px;
+}
+
+.atom-img {
+    width: 290px;
+    height: 200px;
+    margin-left: 80px;
+}
+
+.research-img {
+    width: 200px;
+    height: 200px;
+    margin-left: 80px;
+}
+
+.container { 
+    padding-top: 50px;
+}
+
+a {
+    color: purple;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
